@@ -12,7 +12,7 @@
         <model_table/>
         <on_load>true</on_load>
         <order>100</order>
-        <reverse_if_false>true</reverse_if_false>
+        <reverse_if_false>false</reverse_if_false>
         <run_scripts>true</run_scripts>
         <script_false><![CDATA[function onCondition() {
 	//Clear the field written by the execute if true script for the Other field
@@ -30,7 +30,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>104029bd97e22110a5d6b6a6f053af3e</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Needit show or hide Other field</sys_name>
         <sys_overrides/>
         <sys_package display_value="Need It" source="x_526643_need_it">dc16b1db97ce6110a5d6b6a6f053af3e</sys_package>
@@ -38,7 +38,7 @@
         <sys_scope display_value="Need It">dc16b1db97ce6110a5d6b6a6f053af3e</sys_scope>
         <sys_update_name>sys_ui_policy_104029bd97e22110a5d6b6a6f053af3e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-05-02 12:50:48</sys_updated_on>
+        <sys_updated_on>2023-05-03 04:44:27</sys_updated_on>
         <table>x_526643_need_it_needit</table>
         <ui_type>10</ui_type>
         <view/>
