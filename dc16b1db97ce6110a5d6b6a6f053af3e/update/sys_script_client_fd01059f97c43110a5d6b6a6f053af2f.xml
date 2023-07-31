@@ -18,9 +18,10 @@
    //Type appropriate comment here, and begin script below
 	var emailGA = new GlideAjax('GetEmailAddress');
 	emailGA.addParam('sysparm_name', 'getEmail');
-	emailGA.addParam('sysparm_userID', this.getParameter('u_requested_for'));
+	emailGA.addParam('sysparm_userID', g_form.getValue('u_requested_for'));
 	emailGA.getXMLAnswer(function(response) {
-		emailString = response;
+// 		g_form.addInfoMessage(response);
+		var emailString = response;
 		if(emailString) {
 			g_form.setValue('u_requested_for_email', emailString);
 		}
@@ -32,7 +33,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>fd01059f97c43110a5d6b6a6f053af2f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>NeedIt Populate EmailId</sys_name>
         <sys_overrides/>
         <sys_package display_value="Need It" source="x_526643_need_it">dc16b1db97ce6110a5d6b6a6f053af3e</sys_package>
@@ -40,7 +41,7 @@
         <sys_scope display_value="Need It">dc16b1db97ce6110a5d6b6a6f053af3e</sys_scope>
         <sys_update_name>sys_script_client_fd01059f97c43110a5d6b6a6f053af2f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-07-20 15:32:26</sys_updated_on>
+        <sys_updated_on>2023-07-20 17:03:32</sys_updated_on>
         <table>x_526643_need_it_needit</table>
         <type>onChange</type>
         <ui_type>10</ui_type>
