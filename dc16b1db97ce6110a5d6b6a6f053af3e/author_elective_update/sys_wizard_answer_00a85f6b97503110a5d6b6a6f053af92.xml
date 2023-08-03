@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>NeedIt Task</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>NeedIt Task</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">c4598f86c51021108c8b506e733c4c9f</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-03 07:17:24</sys_created_on>
+        <sys_id>00a85f6b97503110a5d6b6a6f053af92</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Task</sys_name>
+        <sys_package display_value="Need It" source="x_526643_need_it">dc16b1db97ce6110a5d6b6a6f053af3e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Need It">dc16b1db97ce6110a5d6b6a6f053af3e</sys_scope>
+        <sys_update_name>sys_wizard_answer_00a85f6b97503110a5d6b6a6f053af92</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-03 07:17:24</sys_updated_on>
+        <table/>
+        <target_url>x_526643_need_it_needit_task.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Need It">dc16b1db97ce6110a5d6b6a6f053af3e</application>
+        <file_path/>
+        <instance_id>e06932331b40f810e84d2f8dee4bcbea</instance_id>
+        <instance_name>dev116969</instance_name>
+        <name>sys_wizard_answer_00a85f6b97503110a5d6b6a6f053af92</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>NeedIt Task</answer><button_label/><dependent_value/><element/><name>NeedIt Task</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">c4598f86c51021108c8b506e733c4c9f</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-03 07:17:24</sys_created_on><sys_id>00a85f6b97503110a5d6b6a6f053af92</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt Task</sys_name><sys_package display_value="Need It" source="x_526643_need_it">dc16b1db97ce6110a5d6b6a6f053af3e</sys_package><sys_policy/><sys_scope display_value="Need It">dc16b1db97ce6110a5d6b6a6f053af3e</sys_scope><sys_update_name>sys_wizard_answer_00a85f6b97503110a5d6b6a6f053af92</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-03 07:17:24</sys_updated_on><table/><target_url>x_526643_need_it_needit_task.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>639872009</payload_hash>
+        <record_name>NeedIt Task</record_name>
+        <reverted_from/>
+        <source>a992d61197332110a5d6b6a6f053af20</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-07-02 05:53:41</sys_created_on>
+        <sys_id>6545043b97143110a5d6b6a6f053af02</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1891529fe880000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>2545043bd9143110a88503937a55fb02</update_guid>
+        <update_guid_history>2545043bd9143110a88503937a55fb02:639872009</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-03 10:32:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>d9971aafca9b496ba47907a8fd329a81</sys_id>
+        <sys_metadata>00a85f6b97503110a5d6b6a6f053af92</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Task</sys_name>
+        <sys_package display_value="Need It" source="x_526643_need_it">dc16b1db97ce6110a5d6b6a6f053af3e</sys_package>
+        <sys_parent display_value="Task">c4598f86c51021108c8b506e733c4c9f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Need It">dc16b1db97ce6110a5d6b6a6f053af3e</sys_scope>
+        <sys_scope_delete display_value="">13a7870611824a6096950af0e9a31904</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_00a85f6b97503110a5d6b6a6f053af92</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_00a85f6b97503110a5d6b6a6f053af92">6545043b97143110a5d6b6a6f053af02</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-03 10:32:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
