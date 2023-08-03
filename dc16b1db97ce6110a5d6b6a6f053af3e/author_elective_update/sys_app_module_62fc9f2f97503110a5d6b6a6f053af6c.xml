@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="NeedIt">65b6311f97ce6110a5d6b6a6f053affd</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>Administration</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>950</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_526643_need_it.admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-03 07:36:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>62fc9f2f97503110a5d6b6a6f053af6c</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>NeedIt Task</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Need It" source="x_526643_need_it">dc16b1db97ce6110a5d6b6a6f053af3e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Need It">dc16b1db97ce6110a5d6b6a6f053af3e</sys_scope>
+        <sys_update_name>sys_app_module_62fc9f2f97503110a5d6b6a6f053af6c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-03 07:37:51</sys_updated_on>
+        <timeline_page/>
+        <title>NeedIt Task</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Need It">dc16b1db97ce6110a5d6b6a6f053af3e</application>
+        <file_path/>
+        <instance_id>e06932331b40f810e84d2f8dee4bcbea</instance_id>
+        <instance_name>dev116969</instance_name>
+        <name>sys_app_module_62fc9f2f97503110a5d6b6a6f053af6c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="NeedIt">65b6311f97ce6110a5d6b6a6f053affd</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>SEPARATOR</link_type><map_page/><mobile_title>Administration</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>950</order><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_526643_need_it.admin</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-03 07:36:25</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>62fc9f2f97503110a5d6b6a6f053af6c</sys_id><sys_mod_count>3</sys_mod_count><sys_name>NeedIt Task</sys_name><sys_overrides/><sys_package display_value="Need It" source="x_526643_need_it">dc16b1db97ce6110a5d6b6a6f053af3e</sys_package><sys_policy/><sys_scope display_value="Need It">dc16b1db97ce6110a5d6b6a6f053af3e</sys_scope><sys_update_name>sys_app_module_62fc9f2f97503110a5d6b6a6f053af6c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-03 07:37:51</sys_updated_on><timeline_page/><title>NeedIt Task</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-2140367186</payload_hash>
+        <record_name>NeedIt Task</record_name>
+        <reverted_from/>
+        <source>b993ac5997e32110a5d6b6a6f053af1a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-03 07:37:51</sys_created_on>
+        <sys_id>6b4d1baf97503110a5d6b6a6f053af76</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189ba54ddf70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-03 07:37:51</sys_updated_on>
+        <type>Module</type>
+        <update_guid>634d1baf235031109fa9bca971ca3176</update_guid>
+        <update_guid_history>634d1baf235031109fa9bca971ca3176:-2140367186,ec3d57af06503110a35212723a074649:83110256,9f0d53af815031104bd9514a7ece5435:1118855183,2efc17af60503110d5fff4351d59e5a1:-183263311</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="NeedIt Task">ec9d9faf97503110a5d6b6a6f053af22</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-03 07:39:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>389e6772727f4a8eae61fa20daf9ae69</sys_id>
+        <sys_metadata>62fc9f2f97503110a5d6b6a6f053af6c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Task</sys_name>
+        <sys_package display_value="Need It" source="x_526643_need_it">dc16b1db97ce6110a5d6b6a6f053af3e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Need It">dc16b1db97ce6110a5d6b6a6f053af3e</sys_scope>
+        <sys_scope_delete display_value="">13a7870611824a6096950af0e9a31904</sys_scope_delete>
+        <sys_update_name>sys_app_module_62fc9f2f97503110a5d6b6a6f053af6c</sys_update_name>
+        <sys_update_version display_value="sys_app_module_62fc9f2f97503110a5d6b6a6f053af6c">6b4d1baf97503110a5d6b6a6f053af76</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-03 07:39:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
