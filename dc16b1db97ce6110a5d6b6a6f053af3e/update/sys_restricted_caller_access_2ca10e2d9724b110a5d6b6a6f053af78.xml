@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_restricted_caller_access">
+    <sys_restricted_caller_access action="INSERT_OR_UPDATE">
+        <description/>
+        <operation>read</operation>
+        <rca_type>real_rca</rca_type>
+        <source/>
+        <source_scope display_value="NeedIt Spoke">fcde813f97183110a5d6b6a6f053af14</source_scope>
+        <source_table/>
+        <source_type>5</source_type>
+        <status>2</status>
+        <sys_class_name>sys_restricted_caller_access</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-09 06:05:42</sys_created_on>
+        <sys_id>2ca10e2d9724b110a5d6b6a6f053af78</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fcde813f97183110a5d6b6a6f053af14</sys_name>
+        <sys_package display_value="Need It" source="x_526643_need_it">dc16b1db97ce6110a5d6b6a6f053af3e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Need It">dc16b1db97ce6110a5d6b6a6f053af3e</sys_scope>
+        <sys_update_name>sys_restricted_caller_access_2ca10e2d9724b110a5d6b6a6f053af78</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-09 06:05:42</sys_updated_on>
+        <target/>
+        <target_scope display_value="Need It">dc16b1db97ce6110a5d6b6a6f053af3e</target_scope>
+        <target_table/>
+        <target_type>3</target_type>
+    </sys_restricted_caller_access>
+</record_update>

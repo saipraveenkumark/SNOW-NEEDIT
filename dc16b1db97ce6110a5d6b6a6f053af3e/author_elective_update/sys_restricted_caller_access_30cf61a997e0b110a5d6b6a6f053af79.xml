@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_restricted_caller_access">
+    <sys_restricted_caller_access action="DELETE">
+        <description/>
+        <operation>write</operation>
+        <rca_type>real_rca</rca_type>
+        <source>89dbcd9997607110a5d6b6a6f053aff6</source>
+        <source_scope display_value="NeedIt Spoke">fcde813f97183110a5d6b6a6f053af14</source_scope>
+        <source_table>sys_hub_flow</source_table>
+        <source_type>17</source_type>
+        <status>2</status>
+        <sys_class_name>sys_restricted_caller_access</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-09 04:47:28</sys_created_on>
+        <sys_id>30cf61a997e0b110a5d6b6a6f053af79</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>fcde813f97183110a5d6b6a6f053af14</sys_name>
+        <sys_package display_value="Need It" source="x_526643_need_it">dc16b1db97ce6110a5d6b6a6f053af3e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Need It">dc16b1db97ce6110a5d6b6a6f053af3e</sys_scope>
+        <sys_update_name>sys_restricted_caller_access_30cf61a997e0b110a5d6b6a6f053af79</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-09 04:58:21</sys_updated_on>
+        <target name="x_526643_need_it_needit_tasks" target_table="sys_db_object">2e40a3a397903110a5d6b6a6f053af25</target>
+        <target_scope display_value="Need It">dc16b1db97ce6110a5d6b6a6f053af3e</target_scope>
+        <target_table>sys_db_object</target_table>
+        <target_type>1</target_type>
+    </sys_restricted_caller_access>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Need It">dc16b1db97ce6110a5d6b6a6f053af3e</application>
+        <file_path/>
+        <instance_id>e06932331b40f810e84d2f8dee4bcbea</instance_id>
+        <instance_name>dev116969</instance_name>
+        <name>sys_restricted_caller_access_30cf61a997e0b110a5d6b6a6f053af79</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_restricted_caller_access"><sys_restricted_caller_access action="INSERT_OR_UPDATE"><description/><operation>write</operation><rca_type>real_rca</rca_type><source>89dbcd9997607110a5d6b6a6f053aff6</source><source_scope display_value="NeedIt Spoke">fcde813f97183110a5d6b6a6f053af14</source_scope><source_table>sys_hub_flow</source_table><source_type>17</source_type><status>2</status><sys_class_name>sys_restricted_caller_access</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-09 04:47:28</sys_created_on><sys_id>30cf61a997e0b110a5d6b6a6f053af79</sys_id><sys_mod_count>2</sys_mod_count><sys_name>fcde813f97183110a5d6b6a6f053af14</sys_name><sys_package display_value="Need It" source="x_526643_need_it">dc16b1db97ce6110a5d6b6a6f053af3e</sys_package><sys_policy/><sys_scope display_value="Need It">dc16b1db97ce6110a5d6b6a6f053af3e</sys_scope><sys_update_name>sys_restricted_caller_access_30cf61a997e0b110a5d6b6a6f053af79</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-09 04:58:21</sys_updated_on><target name="x_526643_need_it_needit_tasks" target_table="sys_db_object">2e40a3a397903110a5d6b6a6f053af25</target><target_scope display_value="Need It">dc16b1db97ce6110a5d6b6a6f053af3e</target_scope><target_table>sys_db_object</target_table><target_type>1</target_type></sys_restricted_caller_access></record_update>]]></payload>
+        <payload_hash>-193711858</payload_hash>
+        <record_name>fcde813f97183110a5d6b6a6f053af14</record_name>
+        <reverted_from/>
+        <source>b993ac5997e32110a5d6b6a6f053af1a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-09 04:58:21</sys_created_on>
+        <sys_id>ad523de997e0b110a5d6b6a6f053af00</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189d8a901210000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-09 04:58:21</sys_updated_on>
+        <type>Restricted Caller Access Privilege</type>
+        <update_guid>65523de926e0b110007c7563f442ce00</update_guid>
+        <update_guid_history>65523de926e0b110007c7563f442ce00:-193711858,1f70b9a943e0b11096c036aa126a7cb2:-1567836283,cadf6569e9e0b11078202578f47e5e21:-980939141</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-09 05:50:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_restricted_caller_access">sys_restricted_caller_access</sys_db_object>
+        <sys_id>0eb4c7c5e5ea461b901fc00aa8af4009</sys_id>
+        <sys_metadata>30cf61a997e0b110a5d6b6a6f053af79</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fcde813f97183110a5d6b6a6f053af14</sys_name>
+        <sys_package display_value="Need It" source="x_526643_need_it">dc16b1db97ce6110a5d6b6a6f053af3e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Need It">dc16b1db97ce6110a5d6b6a6f053af3e</sys_scope>
+        <sys_scope_delete display_value="">13a7870611824a6096950af0e9a31904</sys_scope_delete>
+        <sys_update_name>sys_restricted_caller_access_30cf61a997e0b110a5d6b6a6f053af79</sys_update_name>
+        <sys_update_version display_value="sys_restricted_caller_access_30cf61a997e0b110a5d6b6a6f053af79">ad523de997e0b110a5d6b6a6f053af00</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-09 05:50:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
