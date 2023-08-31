@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="NeedIt Requests by Type - Challenge">3e7515b297b4711084b47d100153afcb</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-25 10:20:23</sys_created_on>
+        <sys_id>b27515b297b4711084b47d100153afcc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3e7515b297b4711084b47d100153afcb</sys_name>
+        <sys_package display_value="Need It" source="x_526643_need_it">dc16b1db97ce6110a5d6b6a6f053af3e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Need It">dc16b1db97ce6110a5d6b6a6f053af3e</sys_scope>
+        <sys_update_name>sys_report_users_groups_b27515b297b4711084b47d100153afcc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-25 10:20:23</sys_updated_on>
+        <user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user_id>
+    </sys_report_users_groups>
+</record_update>
